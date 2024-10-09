@@ -4,9 +4,9 @@
 
 	$mysql_server_name='localhost'; //Mysql数据库服务器
 	
-	$mysql_username='ser9257516814'; //Mysql数据库用户名
+	$mysql_username=''; //Mysql数据库用户名
 	
-	$mysql_password='5wmoGA'; //Mysql数据库密码
+	$mysql_password=''; //Mysql数据库密码
 	
-	$mysql_database='ser9257516814'; //Mysql数据库名
+	$mysql_database='不给你看'; //Mysql数据库名
 ?>
