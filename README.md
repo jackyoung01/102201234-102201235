@@ -13,5 +13,5 @@
 
 # 使用说明
 ##### 本网站采用html和php进行网页编写，需要php56及以下版本的环境才能正常显示。项目交流平台搭建时仅需配置inc/config.php里的数据库信息以及导入.sql数据库文件即可。同时内置的聊天室采用txt文本进行记录，无需数据库。
-##### [点击访问 Conexus 测试网站](https://conexus.oeza.top)
+##### [点击访问 Conexus 测试网站](http://conexus.oeza.top)（由于地区网络问题需要挂梯子访问）
 
