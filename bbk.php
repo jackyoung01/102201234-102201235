@@ -111,7 +111,7 @@
         <!-- END wrapper -->
 
         <!-- App js -->
-		<?php include './plug/geetest/geetest_index.php' ?> <!-- 极验引入 -->
+		/*<?php include './plug/geetest/geetest_index.php' ?>*/ <!-- 极验引入 -->
         <script src="./assets/javascript/app.min.js"></script>
     </body>
 </html>
