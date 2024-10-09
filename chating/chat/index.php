@@ -25,7 +25,7 @@ echo '<div class="talk mk-chat-box">
 </div>'; 
 ?>
 
-<div class="foot">&copy;<a target="_blank" href="../">返回首页</a>~聊天留言！<a href="javascript:location.reload()">刷新</a>-<a id="update" href="javascript:;">提示</a><script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script></div>
+<div class="foot">&copy;<a target="_blank" href="../../../">返回首页</a>~聊天留言！<a href="javascript:location.reload()">刷新</a>-<a id="update" href="javascript:;">提示</a><script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script></div>
 <script src="app/style/jquery.min.js"></script>
 <script src="app/style/chat.min.js"></script>
 <script>
